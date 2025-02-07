@@ -95,7 +95,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.vibrator.service.oplus
 
 $(call soong_config_set_bool,OPLUS_LINEAGE_VIBRATOR_HAL,USE_EFFECT_STREAM,true)
-$(call soong_config_set,OPLUS_LINEAGE_VIBRATOR_HAL,INCLUDE_DIR,$(LOCAL_PATH)/vibrator/include)
 
 # WiFi firmware symlinks
 PRODUCT_PACKAGES += \
