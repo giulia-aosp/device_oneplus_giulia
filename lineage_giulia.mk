@@ -39,8 +39,8 @@ PRODUCT_MODEL := CPH2691
 PRODUCT_GMS_CLIENTID_BASE := android-oneplus
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildDesc="qssi_64-user 16 BP2A.250605.015 1767972205081 release-keys" \
-    BuildFingerprint=OnePlus/CPH2691IN/OP5D3BL1:16/UKQ1.231108.001/V.R4T3.20c1cda_13c1cf_13b9bd:user/release-keys \
+    BuildDesc="qssi_64-user 16 BP2A.250605.015 1773715705842 release-keys" \
+    BuildFingerprint=OnePlus/CPH2691IN/OP5D3BL1:16/UKQ1.231108.001/V.R4T3.55d77f2-32cda92-330177c:user/release-keys \
     DeviceName=OP5D3BL1 \
     DeviceProduct=CPH2691 \
     SystemDevice=OP5D3BL1 \
