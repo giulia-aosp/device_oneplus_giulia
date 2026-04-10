@@ -85,10 +85,6 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/recovery/root/vendor/odm/etc/23867/build.ROW.prop:$(TARGET_COPY_OUT_ODM)/etc/23867/build.ROW.prop \
     $(LOCAL_PATH)/recovery/root/vendor/odm/etc/23867/build.default.prop:$(TARGET_COPY_OUT_ODM)/etc/23867/build.default.prop
 
-# Remove Packages
-PRODUCT_PACKAGES += \
-    RemovePackagesGiulia
-
 # Shipping API
 PRODUCT_SHIPPING_API_LEVEL := 35
 
